@@ -4,6 +4,10 @@ A react native dynamic header with simple animation (work on scroll down &amp; u
 ## installation 
 npm i dynamic-header-react-native
 
+## preview
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/45339873/114274948-609a6580-9a29-11eb-858e-4e06d8f78c0e.gif)
+
+
 ## props 
 Name | Default | Description
 ------------ | ------------- | -------------
