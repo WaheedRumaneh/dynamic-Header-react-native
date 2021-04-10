@@ -8,6 +8,9 @@ npm i dynamic-header-react-native
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/45339873/114274948-609a6580-9a29-11eb-858e-4e06d8f78c0e.gif)
 
 
+## support for grow up
+<a href="https://www.buymeacoffee.com/WaheedRumane" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## props 
 Name | Default | Description
 ------------ | ------------- | -------------
