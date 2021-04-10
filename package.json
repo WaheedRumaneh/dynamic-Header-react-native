@@ -1,7 +1,6 @@
 {
-  "name": "DynamicHeader",
+  "name": "dynamic-header-react-native",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -27,5 +26,29 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "A react native dynamic header with simple animation (work on scroll down &amp; up) with dynamic design and data to scroll the page",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaheedRumaneh/Dynamic-Header.git"
+  },
+  "keywords": [
+    "open-source",
+    "react-native",
+    "dynamic",
+    "header",
+    "npm-package",
+    "scroll",
+    "scrollbar",
+    "scrollview",
+    "onscroll",
+    "dynamic-header"
+  ],
+  "author": "waheed_rumaneh <waheed-ghost@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WaheedRumaneh/Dynamic-Header/issues"
+  },
+  "homepage": "https://github.com/WaheedRumaneh/Dynamic-Header#readme"
 }
